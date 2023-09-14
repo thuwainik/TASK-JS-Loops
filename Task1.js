@@ -21,3 +21,4 @@ for (let i = 0; i < myArray.length; i++) {
   sum2 = sum2 + myArray[i];
 }
 console.log(sum2);
+// Done
